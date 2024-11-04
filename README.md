@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![texto](https://giphy.com/gifs/spiderman-spiderverse-into-the-sRHX9qwNKQaQB48RAM)
+![](https://giphy.com/gifs/spiderman-spiderverse-into-the-sRHX9qwNKQaQB48RAM)
 <sub>*XD*</sub>
 
 </div>
