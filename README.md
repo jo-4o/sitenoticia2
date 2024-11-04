@@ -1,13 +1,13 @@
-# 📖 Top Noticias- Template de Site de Notícias
+# 📖 Top Noticias - Projeto academico de um site de noticias online.
 
-> Um site básico de notícias, inspirado na estética de jornais online, desenvolvido com **HTML**, **CSS**, **Bootstrap**, e **JavaScript**.
+> Um site básico de notícias, inspirado na estética de jornais online, como o G1, desenvolvido com **HTML**, **CSS**, **Bootstrap**, e **JavaScript**.
 
 ---
 
 <div align="center">
 
-![TopNoticias](https://via.placeholder.com/600x150)  
-<sub>*Imagem vai aq*</sub>
+![TopNoticias]([https://via.placeholder.com/600x150](https://media.discordapp.net/attachments/871184878186659861/1303097591797387377/image.png?ex=672a83b4&is=67293234&hm=99abb9ff45d3ddc944f2e1dce965369ef0dab485d56fec07f763b19315f0c2aa&=&format=webp&quality=lossless&width=295&height=217))  
+<sub>*XD*</sub>
 
 </div>
 
