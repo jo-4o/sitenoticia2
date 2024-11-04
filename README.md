@@ -47,7 +47,7 @@ sitenoticia2/
 1. **Clone o repositório** para o seu computador:
 
    ```bash
-   git clone https://github.com/seu-usuario/news-daily.git
+   git clone https://github.com/seu-usuario/sitenoticia2.git
    cd top-noticias
    ```
 
