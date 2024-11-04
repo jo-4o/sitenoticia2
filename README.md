@@ -48,7 +48,7 @@ sitenoticia2/
 
    ```bash
    git clone https://github.com/seu-usuario/news-daily.git
-   cd news-daily
+   cd top-noticias
    ```
 
 2. **Abra o arquivo `index.html`** em seu navegador para ver o site em ação.
