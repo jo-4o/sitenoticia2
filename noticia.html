@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Notícia Detalhada - News Daily</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="p-3 text-center bg-dark text-white">
+    <div class="container text-center py-3">
+      <!-- Título centralizado -->
+      <h1 class="navbar-brand mx-auto" style="font-size: 2.5rem; font-weight: bold;">Top Noticias</h1>
+
+      <!-- Categorias centralizadas abaixo do título -->
+      <nav class="navbar navbar-expand-lg justify-content-center">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link category-btn" href="#">Inicio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link category-btn" href="#">Mundo</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link category-btn" href="#">Negocios</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link category-btn" href="#">Tecnologia</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link category-btn" href="#">Esportes</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  </header>
+
+  <main class="container my-5">
+    <div class="row">
+      <div class="col-md-4">
+        <!-- Imagem da notícia -->
+        <img src="https://via.placeholder.com/300" alt="Imagem da notícia" class="img-fluid rounded">
+      </div>
+      <div class="col-md-8">
+        <!-- Título e conteúdo da notícia -->
+        <h2>Título da Notícia</h2>
+        <p class="text-muted">Publicado em: 10/10/2024</p>
+        <p>
+          <!-- Parágrafos de exemplo -->
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin auctor neque at libero commodo, sed vulputate erat ornare. 
+          <br><br>
+          Nunc sodales, urna a venenatis blandit, mauris turpis feugiat elit, a fermentum nulla magna et nibh. Nam vehicula justo sed nisl aliquet, ut gravida lorem luctus...
+        </p>
+        <button class="like-btn" onclick="incrementLike('noticia1')">Curtir</button>
+        <span id="noticia1-likes" class="like-count">Curtidas: 0</span>
+      </div>
+    </div>
+  </main>
+
+  <footer class="text-center p-3 bg-dark text-white">
+    <p>&copy; 2024 News Daily. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/scripts.js"></script>
+</body>
+</html>
