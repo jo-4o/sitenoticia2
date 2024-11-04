@@ -6,7 +6,7 @@
 
 <div align="center">
 
-!([[https://via.placeholder.com/600x150](https://media.discordapp.net/attachments/871184878186659861/1303097591797387377/image.png?ex=672a83b4&is=67293234&hm=99abb9ff45d3ddc944f2e1dce965369ef0dab485d56fec07f763b19315f0c2aa&=&format=webp&quality=lossless&width=295&height=217)](https://giphy.com/gifs/spiderman-spiderverse-into-the-sRHX9qwNKQaQB48RAM))  
+![texto(https://giphy.com/gifs/spiderman-spiderverse-into-the-sRHX9qwNKQaQB48RAM)
 <sub>*XD*</sub>
 
 </div>
